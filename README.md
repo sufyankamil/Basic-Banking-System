@@ -13,3 +13,7 @@ Database contains two Tables- Users Table & Transaction Table
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
+
+https://user-images.githubusercontent.com/66327177/125196133-436a7280-e276-11eb-928f-a6b8d365dea6.mp4
+
+
